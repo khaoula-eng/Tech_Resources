@@ -1,6 +1,6 @@
 # 📚 Data & AI Learning Resources
 
-Hello, Welcome to my open-source repository for **Data, AI & BI learning resources**.
+Hello, Welcome to my open-source repository for **Data, Cloud, AI & BI learning resources**.
 
 This repository is created to share and organize useful resources related to **Data Engineering, Big Data,Machine Learning, Deep Learning, and BI**.
 
