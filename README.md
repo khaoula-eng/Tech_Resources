@@ -1,4 +1,4 @@
-# 📚 Data & AI Learning Resources
+# 📚 Tech Resources
 
 Hello, Welcome to my open-source repository for **Data, Cloud, AI & BI learning resources**.
 
