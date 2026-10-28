@@ -28,15 +28,15 @@ It is designed to make learning easier by organizing resources in one place.
 
 This repository may include resources related to:
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Power BI
+- Python (Pandas, NumPy)
 - SQL
 - Apache Spark
-- Hadoop
+- Hadoop HDFS & Hive
+- Apache Kafka
+- Apache Airflow
 - Apache NiFi
-- Azure
+- Snowflake
 
+- Azure Ecosystem
+- Power BI
 
